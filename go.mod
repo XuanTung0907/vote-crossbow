@@ -5,7 +5,6 @@ go 1.19
 require (
 	github.com/gin-gonic/gin v1.8.1
 	github.com/jinzhu/copier v0.3.5
-	github.com/json-iterator/go v1.1.12
 	gorm.io/driver/postgres v1.4.5
 	gorm.io/gorm v1.24.1-0.20221019064659-5dd2bb482755
 )
@@ -26,6 +25,7 @@ require (
 	github.com/jackc/pgx/v4 v4.17.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.4 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/lib/pq v1.10.7 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
