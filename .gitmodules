@@ -1,0 +1,3 @@
+[submodule "gobooks"]
+	path = gobooks
+	url = https://github.com/XuanTung0907/gobooks.git
