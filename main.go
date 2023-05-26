@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"gitlab/vote-crossbow/router"
 	"log"
 	"net/http"
@@ -13,4 +14,5 @@ func main() {
 		log.Fatal("Not connect server")
 	}
 	//r.Run(":8080")
+	fmt.Println("submodule")
 }
